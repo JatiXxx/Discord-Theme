@@ -62,7 +62,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://ru.freepik.com/icon/message_6986963#fromView=search&term=direct+message&track=ais&page=1&position=4&uuid=1ec46323-6e44-409e-9aed-16dfff0443d8'); /* custom icon url */
+	--moon-icon-url: url('https://www.svgrepo.com/show/380090/send-message-dm.svg'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
